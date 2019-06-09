@@ -8,4 +8,5 @@ An alignment system in C++ that does the following:
 Example run:
 
 [Input a Paragraph]
->> right 30 ** Will align the text to the right, with 30 characters on each line.
+> right 30 
+** Will align the text to the right, with 30 characters on each line.
